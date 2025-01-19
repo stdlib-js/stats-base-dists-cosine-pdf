@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-19)
+
+<section class="features">
+
+### Features
+
+-   [`a0ac787`](https://github.com/stdlib-js/stdlib/commit/a0ac78799e6a7a99f5b68b0b73b680eeba6bd53d) - add C implementation for `stats/base/dists/cosine/pdf` [(#4500)](https://github.com/stdlib-js/stdlib/pull/4500)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3522](https://github.com/stdlib-js/stdlib/issues/3522)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a0ac787`](https://github.com/stdlib-js/stdlib/commit/a0ac78799e6a7a99f5b68b0b73b680eeba6bd53d) - **feat:** add C implementation for `stats/base/dists/cosine/pdf` [(#4500)](https://github.com/stdlib-js/stdlib/pull/4500) _(by Prashant Kumar Yadav)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-29)
