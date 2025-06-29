@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-20)
+## Unreleased (2025-06-29)
 
 <section class="features">
 
@@ -44,6 +44,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`716f93d`](https://github.com/stdlib-js/stdlib/commit/716f93d14c76e1dda5b02c365a17a2519da3cada) - **chore:** add missing benchmark and examples dependencies _(by Philipp Burckhardt)_
 -   [`e457c7a`](https://github.com/stdlib-js/stdlib/commit/e457c7a03b29c7a470c165b21d77c85e4b21a4a1) - **fix:** remove unused `eps` dependency from `cosine/pdf` build task _(by Philipp Burckhardt)_
 -   [`2ad245f`](https://github.com/stdlib-js/stdlib/commit/2ad245f8ea17a02a55fb41de90a7d6ee7c738c87) - **bench:** update random value generation [(#7094)](https://github.com/stdlib-js/stdlib/pull/7094) _(by Harsh)_
 -   [`5bed283`](https://github.com/stdlib-js/stdlib/commit/5bed2837d020e3ea6f8452e85b0f7008d4d76b68) - **docs:** replace manual `for` loop in examples [(#7075)](https://github.com/stdlib-js/stdlib/pull/7075) _(by Harsh)_
